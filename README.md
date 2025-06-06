@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi there, I'm Youssef Tamer!
 
-<!--
-**youssfTamer/youssfTamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Senior Computer Science Student** | 💻 **Backend Developer (Node.js)** | 🌍 **Based in Cairo, Egypt**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a passionate and dedicated backend developer specializing in building scalable and efficient systems. With a solid foundation in computer science and hands-on experience in crafting robust APIs, I aim to create solutions that empower users and enhance productivity.
+
+- 🔧 **Specialization:** Backend Development using **Node.js**
+- 🛠️ **Tech Stack:** JavaScript, Node.js, Express.js, PostgreSQL, MongoDB, Docker, REST APIs
+- 🌱 **Currently Learning:** Advanced Node.js techniques, OS, Databases, and Networks
+- 🎯 **Goal:** Build impactful applications and contribute to innovative projects
+
+---
+
+## 🏗️ My Projects
+Here are some highlights of what I've been working on:
+
+### 🎓 **Graduation Project:** [Student Housing Management System](#)
+- 🏠 A comprehensive platform built with **Node.js** and **Flutter** to manage student housing.
+- 🛠️ Includes modules for room allocation, maintenance tracking, and real-time notifications.
+- 🔗 [View Repository](#)
+
+  
+### 🛒 **E-commerce API**
+- 🛍️ A feature-rich **E-commerce platform API** supporting user registration, product catalog management, and secure payment integration.
+- 🛠️ Built with **Node.js**, **Express.js**, **MongoDB**, and **Stripe** for payments.
+- ⚡ Includes JWT authentication, admin dashboards, and order tracking.
+- 🔗 [View Repository](#)
+
+---
+
+## 📊 My GitHub Stats
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssfTamer&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssfTamer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌟 Let's Connect!
+- 💼 [LinkedIn](#)
+- 🌐 [Portfolio Website](#)
+- 📧 **Email:** [youssf.tamer@example.com](mailto:youssf.tamer@example.com)
+
+
+
+---
+
+Feel free to explore my repositories and connect for collaboration or new opportunities!

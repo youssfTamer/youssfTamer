@@ -20,14 +20,14 @@ Here are some highlights of what I've been working on:
 ### 🎓 **Graduation Project:** [Student Housing Management System](#)
 - 🏠 A comprehensive platform built with **Node.js** and **Flutter** to manage student housing.
 - 🛠️ Includes modules for room allocation, maintenance tracking, and real-time notifications.
-- 🔗 [View Repository](#)
+- 🔗 [View Repository]([#](https://github.com/youssfTamer/HTI-Housing))
 
   
 ### 🛒 **E-commerce API**
 - 🛍️ A feature-rich **E-commerce platform API** supporting user registration, product catalog management, and secure payment integration.
 - 🛠️ Built with **Node.js**, **Express.js**, **MongoDB**, and **Stripe** for payments.
 - ⚡ Includes JWT authentication, admin dashboards, and order tracking.
-- 🔗 [View Repository](#)
+- 🔗 [View Repository]([#](https://github.com/youssfTamer/E-commerce-/tree/master))
 
 ---
 
@@ -39,11 +39,8 @@ Here are some highlights of what I've been working on:
 ---
 
 ## 🌟 Let's Connect!
-- 💼 [LinkedIn](#)
-- 🌐 [Portfolio Website](#)
-- 📧 **Email:** [youssf.tamer@example.com](mailto:youssf.tamer@example.com)
-
-
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/youssef-tamer-))
+- 📧 **Email:** [youssf.tamer@example.com](yousftamer11@gmail.com)
 
 ---
 

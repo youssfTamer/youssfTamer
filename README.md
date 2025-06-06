@@ -39,8 +39,8 @@ Here are some highlights of what I've been working on:
 ---
 
 ## 🌟 Let's Connect!
-- 💼 [LinkedIn]([#](https://www.linkedin.com/in/youssef-tamer-))
-- 📧 **Email:** [youssf.tamer@example.com](yousftamer11@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-tamer-)
+- 📧 **Email:** (yousftamer11@gmail.com)
 
 ---
 

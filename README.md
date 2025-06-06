@@ -32,7 +32,6 @@ Here are some highlights of what I've been working on:
 ---
 
 ## 📊 My GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssfTamer&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssfTamer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
